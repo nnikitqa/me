@@ -1,5 +1,6 @@
 baseurl = "https://nnikitqa.github.io/nikitadev/"
-title = ""
+title = "Nikita DEV"
+thenesDir = "themes"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
