@@ -1,4 +1,4 @@
-baseurl = "https://nnikitqa.github.io/nikitadev/"
+baseurl = "https://nnikitqa.github.io/me/"
 title = "Nikita DEV"
 thenesDir = "themes"
 theme = "hugo-coder"
