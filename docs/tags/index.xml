@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Nikita DEV</title>
-    <link>https://nnikitqa.github.io/nikitadev/tags/</link>
+    <link>https://nnikitqa.github.io/me/tags/</link>
     <description>Recent content in Tags on Nikita DEV</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     
-	<atom:link href="https://nnikitqa.github.io/nikitadev/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nnikitqa.github.io/me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
