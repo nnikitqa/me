@@ -42,10 +42,10 @@ disqusShortname = "yourdiscussshortname"
     weight = 1
     url = "https://github.com/nnikitqa/"
 [[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
+    name = "LeetCode"
+    icon = "fa fa-terminal"
     weight = 3
-    url = "https://twitter.com/nnikitqa/"
+    url = "https://leetcode.com/nnikitqa/"
 [[params.social]]
     name = "vk"
     icon = "fab fa-vk"
@@ -56,6 +56,11 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-instagram"
     weight = 3
     url = "https://instagram.com/nnikitqa/"
+[[params.social]]
+    name = "HackerRank"
+    icon = "fa fa-code"
+    weight = 3
+    url = "https://www.hackerrank.com/nnikitqa"
 
 # Menu links
 [[menu.main]]
