@@ -71,4 +71,4 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "CV"
     weight = 3
-    url  = "/Nikita_Stepanov_CV.pdf"
+    url  = "file:Nikita_Stepanov_CV.pdf"
