@@ -16,8 +16,9 @@ pygmentscodefencesguesssyntax = true
 disqusShortname = "yourdiscussshortname"
 
 [params]
-    author = "Nikita Stepanov"
-    info = ".NET software developer"
+    #author = "Nikita Stepanov"
+    info = "Hey, I'm Nikita. I’m a .NET software developer."
+
     description = "My personal website"
     keywords = "blog,developer,personal"
     avatarurl = "images/avatar.jpg"
@@ -25,7 +26,7 @@ disqusShortname = "yourdiscussshortname"
     favicon_32 = "/img/favicon-32x32.png"
     favicon_16 = "/img/favicon-16x16.png"
 
-    footercontent = "hello there!"
+    footercontent = ""
 
     hidecredits = false
     hidecopyright = false
@@ -62,12 +63,12 @@ disqusShortname = "yourdiscussshortname"
     weight = 3
     url = "https://www.hackerrank.com/nnikitqa"
 
-# Menu links
+#Menu links
 [[menu.main]]
-    name = "Blog"
+    name = "Mail"
     weight = 1
-    url  = "/posts/"
+    url  = "mailto:nikita.stepanov.work@gmail.com"
 [[menu.main]]
-    name = "About"
-    weight = 2
-    url = "/about/"
+    name = "CV"
+    weight = 3
+    url  = "/Nikita_Stepanov_CV.pdf"
