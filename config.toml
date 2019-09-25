@@ -67,7 +67,7 @@ disqusShortname = "yourdiscussshortname"
 [[menu.main]]
     name = "Mail"
     weight = 1
-    url  = "mailto:nikita.stepanov.work@gmail.com"
+    url  = "mailto:stepanov.nikita.work@gmail.com"
 [[menu.main]]
     name = "CV"
     weight = 3
